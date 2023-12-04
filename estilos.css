@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-size: large;
+    background-color: aqua;
+}
+header{
+    display: flex;
+    background-color: green;
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+.divTitulo{
+    flex: 80%;
+}    
+
+
